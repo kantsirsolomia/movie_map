@@ -1,6 +1,6 @@
 Description
 - - - - - -
-The module "map.py" is destined for finding out some information on films that
+The module "map.py" is destined for finding out some information on movies that
 have been filmed in particular year. This module includes next functions:
 1.user_input() - offers the user to make an input - year
 2.location_from_csv() - opens and reads a csv file, find locations of the movies
