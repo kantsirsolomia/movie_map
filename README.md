@@ -12,6 +12,7 @@ make the marker of this place on the map; creates an additional layer with info
 on population.
 5.function_join() - joins all the functions and provides correct cooperation of
 functions.
+To find out information about films and locations I used "location.csv" file.
 
 Description of structure of html tags
 - - - - - - - - - - - - - - - - - - -
@@ -37,3 +38,7 @@ orange if population is more than or equals 10000000 but less than 20000000, and
 
 As a result, the map has three layers - Open street map, population and movies.
 The user has a Layer Control.
+
+Additional
+- - - - - - 
+You need to install flask and geopy to use my code.
